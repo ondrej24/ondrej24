@@ -1,4 +1,4 @@
-# Introduction
+# About me
 
 - Name: Ondřej
 - Country: Czech Republic
