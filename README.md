@@ -1,6 +1,6 @@
 # Introduction
 
-- Name: Ondřej Pollach
+- Name: Ondřej
 - Country: Czech Republic
 - Education:
   - Energy Engineering at Brno University of Technology
